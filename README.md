@@ -1,4 +1,4 @@
-# SQL © 2020
+# SQL © 2020 Collections
 SQL Injection / SQL инъекциа
  inurl Errors | Dork for Hacking
   
